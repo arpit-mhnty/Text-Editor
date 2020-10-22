@@ -10,12 +10,12 @@ from gtts import gTTS
 import os 
 root = Tk() 
 
-frame1 = Frame(root, bg = "LightBlue1",  height = "150") 
+frame1 = Frame(root, bg = "LightBlue1",  height = "155") 
 
 frame1.pack(fill = X) 
   
   
-frame2 = Frame(root,  bg = "lightgreen",  height = "750") 
+frame2 = Frame(root,  bg = "lightgreen",  height = "760") 
 frame2.pack(fill=X) 
   
 
@@ -23,7 +23,7 @@ label = Label(frame1, text = "Text to Speech",  font = "bold, 30", bg = "LightBl
   
 label.place(x = 180, y = 70) 
   
-entry = Entry(frame2, width = 45,  bd = 4, font = 14) 
+entry = Entry(frame2, width = 42,  bd = 5, font = 13) 
   
 entry.place(x = 130, y = 52) 
 entry.insert(0, "") 
