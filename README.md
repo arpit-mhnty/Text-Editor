@@ -22,4 +22,4 @@ you can start your open-source from this Text-Editor.
 =======================================================================
 
 # Contributing
-Pull requests are welcome. If someone want to contribute to this project can fork and add the Functionalities. like adding a button for text to speech using pyttsx3.
+Pull requests are welcome. If someone want to contribute to this project can fork and add the Functionalities. like adding a button for text to speech using pyttsx3. pls contributions here
